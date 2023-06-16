@@ -1,6 +1,7 @@
 # [Archive] CV Papers from arXiv.org
 
-> Updated on June 17, 2023 </br>
+> Each research field includes the newest 20 papers from arXiv.org.  </br>
+> This ```README.md``` is updated on June 17, 2023. </br>
 
 ---
 
@@ -12,6 +13,7 @@
 * [Geometry Processing](#Geometry-Processing) 
 
 # Word Cloud
+Each word cloud is built upon the keywords of Abstract Section of the newest 20 papers. 
 
   * SLAM
 
