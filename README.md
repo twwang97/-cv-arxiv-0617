@@ -1,8 +1,8 @@
 # CV Papers
 
 ## Updated on 2023.06.17
-> Usage instructions: [here](./docs/README.md#usage)
-> source [code](https://github.com/Vincentqyw/cv-arxiv-daily)
+> Usage instructions: [here](./docs/README.md#usage) </br>
+> Github source [code](https://github.com/Vincentqyw/cv-arxiv-daily) </br>
 
 <details>
   <summary>Table of Contents</summary>
