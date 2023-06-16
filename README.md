@@ -1,62 +1,68 @@
 # CV Papers
 
-## Updated on 2023.06.17
-> Usage instructions: [here](./docs/README.md#usage) </br>
-> Github source [code](https://github.com/Vincentqyw/cv-arxiv-daily) </br>
+> Github source and usage instructions: [here](https://github.com/Vincentqyw/cv-arxiv-daily/blob/main/docs/README.md) </br>
+> Updated on June 16, 2023 </br>
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#SLAM>SLAM</a></li>
-    <li><a href=#SFM>SFM</a></li>
-    <li><a href=#Visual-Localization>Visual Localization</a></li>
-    <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
-    <li><a href=#Image-Matching>Image Matching</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
-    <li><a href=#Neural-Rendering>Neural Rendering</a></li>
-    <li><a href=#3D-Reconstruction>3D Reconstruction</a></li>
-    <li><a href=#Scene-Representation>Scene Representation</a></li>
-    <li><a href=#Geometry-Processing>Geometry Processing</a></li>
+    <li><a href=#SLAM-1>SLAM</a></li>
+    <li><a href=#SFM-1>SFM</a></li>
+    <li><a href=##Visual-Localization-1>Visual Localization</a></li>
+    <li><a href=#Keypoint-Detection-1>Keypoint Detection</a></li>
+    <li><a href=#Image-Matching-1>Image Matching</a></li>
+    <li><a href=#NeRF-1>NeRF</a></li>
+    <li><a href=#Neural-Rendering-1>Neural Rendering</a></li>
+    <li><a href=#3D-Reconstruction-1>3D Reconstruction</a></li>
+    <li><a href=#Scene-Representation-1>Scene Representation</a></li>
+    <li><a href=#Geometry-Processing-1>Geometry Processing</a></li>
   </ol>
 </details>
 
-## Word Cloud
+<details>
+  <summary>Word Cloud</summary>
+  <ol>
 
-#### SLAM
+* SLAM
 
 ![wordcloud_SLAM](./docs/abstract/wordcloud_SLAM.png)
 
-#### SFM
+* SFM
 
 ![wordcloud_SFM](./docs/abstract/wordcloud_SFM.png)
 
-#### Visual Localization
+* Visual Localization
 
 ![wordcloud_VisualLocalization](./docs/abstract/wordcloud_VisualLocalization.png)
 
-#### Keypoint Detection
+* Keypoint Detection
 
 ![wordcloud_KeypointDetection](./docs/abstract/wordcloud_KeypointDetection.png)
 
-#### Image Matching
+* Image Matching
 
 ![wordcloud_ImageMatching](./docs/abstract/wordcloud_ImageMatching.png)
 
-#### Neural Rendering
+* Neural Rendering
 
 ![wordcloud_NeuralRendering](./docs/abstract/wordcloud_NeuralRendering.png)
 
-#### 3D Reconstruction
+* 3D Reconstruction
 
 ![wordcloud_3DReconstruction](./docs/abstract/wordcloud_3DReconstruction.png)
 
-#### Scene Representation
+* Scene Representation
 
 ![wordcloud_SceneRepresentation](./docs/abstract/wordcloud_SceneRepresentation.png)
 
-#### Geometry Processing
+* Geometry Processing
 
 ![wordcloud_GeometryProcessing](./docs/abstract/wordcloud_GeometryProcessing.png)
+
+  </ol>
+</details>
+
+---
 
 ## SLAM
 
