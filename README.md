@@ -3,10 +3,12 @@
 > Github source and usage instructions: [here](https://github.com/Vincentqyw/cv-arxiv-daily/blob/main/docs/README.md) </br>
 > Updated on June 16, 2023 </br>
 
+---
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#SLAM-1>SLAM</a></li>
+<!--     <li><a href=#SLAM-1>SLAM</a></li>
     <li><a href=#SFM-1>SFM</a></li>
     <li><a href=##Visual-Localization-1>Visual Localization</a></li>
     <li><a href=#Keypoint-Detection-1>Keypoint Detection</a></li>
@@ -15,7 +17,17 @@
     <li><a href=#Neural-Rendering-1>Neural Rendering</a></li>
     <li><a href=#3D-Reconstruction-1>3D Reconstruction</a></li>
     <li><a href=#Scene-Representation-1>Scene Representation</a></li>
-    <li><a href=#Geometry-Processing-1>Geometry Processing</a></li>
+    <li><a href=#Geometry-Processing-1>Geometry Processing</a></li> -->
+    * [SLAM](#SLAM-1)  </br>
+    * [SFM](#SFM-1)  </br>
+    * [Visual Localization](#Visual-Localization-1)  </br>
+    * [Keypoint Detection](#Keypoint-Detection-1)  </br>
+    * [Image Matching](#Image-Matching-1)  </br>
+    * [NeRF](#NeRF-1)  </br>
+    * [Neural Rendering ](#Neural-Rendering-1)  </br>
+    * [3D Reconstruction ](#3D-Reconstruction-1)  </br>
+    * [Scene Representation ](#Scene-Representation-1)  </br>
+    * [ Geometry Processing ](#Geometry-Processing-1)  </br>
   </ol>
 </details>
 
