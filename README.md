@@ -18,6 +18,9 @@
 
 <details>
   <summary>Word Cloud</summary>
+
+  * The word cloud is constructed based on the newest 200 papers (accessed on June 16, 2023)
+    
   <ol>
 
   * SLAM
