@@ -17,34 +17,6 @@
 * [Scene Representation ](#Scene-Representation) 
 * [ Geometry Processing ](#Geometry-Processing) 
 
----
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#SLAM-1>SLAM</a></li>
-    <li><a href=#SFM-1>SFM</a></li>
-    <li><a href=##Visual-Localization-1>Visual Localization</a></li>
-    <li><a href=#Keypoint-Detection-1>Keypoint Detection</a></li>
-    <li><a href=#Image-Matching-1>Image Matching</a></li>
-    <li><a href=#NeRF-1>NeRF</a></li>
-    <li><a href=#Neural-Rendering-1>Neural Rendering</a></li>
-    <li><a href=#3D-Reconstruction-1>3D Reconstruction</a></li>
-    <li><a href=#Scene-Representation-1>Scene Representation</a></li>
-    <li><a href=#Geometry-Processing-1>Geometry Processing</a></li>
-<li> [SLAM](#SLAM-1)</li>
-<li> [SFM](#SFM-1)</li>
-<li> [Visual Localization](#Visual-Localization-1)</li>
-<li> [Keypoint Detection](#Keypoint-Detection-1)</li>
-<li> [Image Matching](#Image-Matching-1)</li>
-<li> [NeRF](#NeRF-1)</li>
-<li> [Neural Rendering ](#Neural-Rendering-1)</li>
-<li> [3D Reconstruction ](#3D-Reconstruction-1)</li>
-<li> [Scene Representation ](#Scene-Representation-1)</li>
-<li> [ Geometry Processing ](#Geometry-Processing-1)</li>
-  </ol>
-</details>
-
 <details>
   <summary>Word Cloud</summary>
   <ol>
@@ -637,7 +609,7 @@
 |**2019-10-26**|**Robust GNSS Denied Localization for UAV Using Particle Filter and Visual Odometry**|Rokas Jurevičius et.al.|[1910.12121](http://arxiv.org/abs/1910.12121)|null|
 |**2019-10-15**|**Multi-Frame GAN: Image Enhancement for Stereo Visual Odometry in Low Light**|Eunah Jung et.al.|[1910.06632](http://arxiv.org/abs/1910.06632)|null|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## SFM
 
@@ -848,7 +820,7 @@
 |**2020-08-10**|**DeepSFM: Structure From Motion Via Deep Bundle Adjustment**|Xingkui Wei et.al.|[1912.09697](http://arxiv.org/abs/1912.09697)|null|
 |**2020-05-22**|**Tangent Images for Mitigating Spherical Distortion**|Marc Eder et.al.|[1912.09390](http://arxiv.org/abs/1912.09390)|**[link](https://github.com/meder411/Tangent-Images)**|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1297,7 +1269,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1506,7 +1478,7 @@
 |**2021-11-29**|**FisheyeSuperPoint: Keypoint Detection and Description Network for Fisheye Images**|Anna Konrad et.al.|[2103.00191](http://arxiv.org/abs/2103.00191)|null|
 |**2021-09-03**|**Human-Machine Collaborative Video Coding Through Cuboidal Partitioning**|Ashek Ahmmed et.al.|[2102.01307](http://arxiv.org/abs/2102.01307)|null|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1715,7 +1687,7 @@
 |**2021-03-09**|**Iterative Shrinking for Referring Expression Grounding Using Deep Reinforcement Learning**|Mingjie Sun et.al.|[2103.05187](http://arxiv.org/abs/2103.05187)|**[link](https://github.com/insomnia94/ISREG)**|
 |**2021-03-16**|**Matching Algorithms: Fundamentals, Applications and Challenges**|Jing Ren et.al.|[2103.03770](http://arxiv.org/abs/2103.03770)|null|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## NeRF
 
@@ -2112,7 +2084,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## Neural Rendering
 
@@ -2319,7 +2291,7 @@
 |**2023-03-29**|**I $^2$ -SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs**|Jingsen Zhu et.al.|[2303.07634](http://arxiv.org/abs/2303.07634)|null|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418](http://arxiv.org/abs/2303.07418)|**[link](https://github.com/jiawei-yang/freenerf)**|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -2526,7 +2498,7 @@
 |**2022-12-01**|**Fast-SNARF: A Fast Deformer for Articulated Neural Fields**|Xu Chen et.al.|[2211.15601](http://arxiv.org/abs/2211.15601)|**[link](https://github.com/xuchen-ethz/fast-snarf)**|
 |**2022-11-28**|**How nanoporous silicon-polypyrrole hybrids flex their muscles in aqueous electrolytes: In operando high-resolution x-ray diffraction and electron tomography-based micromechanical computer simulations**|Manuel Brinker et.al.|[2211.15496](http://arxiv.org/abs/2211.15496)|null|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## Scene Representation
 
@@ -2733,7 +2705,7 @@
 |**2022-10-05**|**NeuralMeshing: Differentiable Meshing of Implicit Neural Representations**|Mathias Vetsch et.al.|[2210.02382](http://arxiv.org/abs/2210.02382)|null|
 |**2023-02-20**|**SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations**|Xingguang Zhong et.al.|[2210.02299](http://arxiv.org/abs/2210.02299)|**[link](https://github.com/prbonn/shine_mapping)**|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ## Geometry Processing
 
@@ -2871,4 +2843,4 @@
 |**2014-06-25**|**Skeletal Representations and Applications**|Andrea Tagliasacchi et.al.|[1301.6809](http://arxiv.org/abs/1301.6809)|null|
 |**2017-08-09**|**Delaunay Hodge Star**|Anil N. Hirani et.al.|[1204.0747](http://arxiv.org/abs/1204.0747)|null|
 
-<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
