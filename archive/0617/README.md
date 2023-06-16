@@ -1,4 +1,4 @@
-# [Archive] CV Papers from arXiv.org (0617)
+# [Archive] CV Papers from arXiv.org
 
 > Updated on June 17, 2023 </br>
 
@@ -7,20 +7,11 @@
 # Table of Contents
 * [SLAM](#SLAM) 
 * [SFM](#SFM)
-* [Visual Localization](#Visual-Localization) 
-* [Keypoint Detection](#Keypoint-Detection) 
-* [Image Matching](#Image-Matching) 
-* [Neural Rendering ](#Neural-Rendering) 
 * [3D Reconstruction](#3D-Reconstruction) 
 * [Scene Representation](#Scene-Representation) 
 * [Geometry Processing](#Geometry-Processing) 
 
-<details>
-  <summary>Word Cloud</summary>
-
-  * The word cloud is constructed based on the newest 200 papers (accessed on June 16, 2023)
-    
-  <ol>
+# Word Cloud
 
   * SLAM
 
@@ -29,22 +20,6 @@
   * SFM
     
   ![wordcloud_SFM](./abstract/wordcloud_SFM.png)
-  
-  * Visual Localization
-
-  ![wordcloud_VisualLocalization](./abstract/wordcloud_VisualLocalization.png)
-  
-  * Keypoint Detection
-    
-  ![wordcloud_KeypointDetection](./abstract/wordcloud_KeypointDetection.png)
-  
-  * Image Matching
-    
-  ![wordcloud_ImageMatching](./abstract/wordcloud_ImageMatching.png)
-  
-  * Neural Rendering
-    
-  ![wordcloud_NeuralRendering](./abstract/wordcloud_NeuralRendering.png)
   
   * 3D Reconstruction
     
@@ -58,8 +33,7 @@
     
   ![wordcloud_GeometryProcessing](./abstract/wordcloud_GeometryProcessing.png)
 
-  </ol>
-</details>
+
 
 ---
 
