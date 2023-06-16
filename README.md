@@ -6,16 +6,16 @@
 ---
 
 # Table of Contents
-* [SLAM](#SLAM-1) 
-* [SFM](#SFM-1)
-* [Visual Localization](#Visual-Localization-1) 
-* [Keypoint Detection](#Keypoint-Detection-1) 
-* [Image Matching](#Image-Matching-1) 
-* [NeRF](#NeRF-1)
-* [Neural Rendering ](#Neural-Rendering-1) 
-* [3D Reconstruction ](#3D-Reconstruction-1) 
-* [Scene Representation ](#Scene-Representation-1) 
-* [ Geometry Processing ](#Geometry-Processing-1) 
+* [SLAM](#SLAM) 
+* [SFM](#SFM)
+* [Visual Localization](#Visual-Localization) 
+* [Keypoint Detection](#Keypoint-Detection) 
+* [Image Matching](#Image-Matching) 
+* [NeRF](#NeRF)
+* [Neural Rendering ](#Neural-Rendering) 
+* [3D Reconstruction ](#3D-Reconstruction) 
+* [Scene Representation ](#Scene-Representation) 
+* [ Geometry Processing ](#Geometry-Processing) 
 
 ---
 
