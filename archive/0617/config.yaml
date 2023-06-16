@@ -1,0 +1,44 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+cloned_github_source_url: "https://github.com/Vincentqyw/cv-arxiv-daily"
+user_name: "Vincentqyw"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: False
+max_results: 20
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+abstract_txt_prefix: './docs/abstract/abstract_'
+abstract_txt_form: '.txt'
+write_abstract_mode: 'append' # 'append' # 'override'
+abstract_wordcloud_prefix: './docs/abstract/wordcloud_'
+abstract_wordcloud_form: '.png'
+
+# keywords to search
+keywords:
+    "SLAM": 
+        filters: ["SLAM", "Visual Odometry", "Simultaneous Localization and Mapping", 
+                    "Visual Localization","Camera Localization",
+                  "Camera Re-localisation","Loop Closure Detection",
+                  "visual place recognition","image retrieval"]
+    "SFM":
+        filters: ["SFM", "Structure from Motion"]
+    "3D Reconstruction":
+        filters: ["3D Reconstruction"]
+    "Scene Representation":
+        filters: ["Scene Representation", "Implicit Representation"]
+    "Geometry Processing":
+        filters: ["Geometry Processing"]
