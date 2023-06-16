@@ -5,10 +5,24 @@
 
 ---
 
+# Table of Contents
+* [SLAM](#SLAM-1) 
+* [SFM](#SFM-1)
+* [Visual Localization](#Visual-Localization-1) 
+* [Keypoint Detection](#Keypoint-Detection-1) 
+* [Image Matching](#Image-Matching-1) 
+* [NeRF](#NeRF-1)
+* [Neural Rendering ](#Neural-Rendering-1) 
+* [3D Reconstruction ](#3D-Reconstruction-1) 
+* [Scene Representation ](#Scene-Representation-1) 
+* [ Geometry Processing ](#Geometry-Processing-1) 
+
+---
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
-<!--     <li><a href=#SLAM-1>SLAM</a></li>
+    <li><a href=#SLAM-1>SLAM</a></li>
     <li><a href=#SFM-1>SFM</a></li>
     <li><a href=##Visual-Localization-1>Visual Localization</a></li>
     <li><a href=#Keypoint-Detection-1>Keypoint Detection</a></li>
@@ -17,17 +31,17 @@
     <li><a href=#Neural-Rendering-1>Neural Rendering</a></li>
     <li><a href=#3D-Reconstruction-1>3D Reconstruction</a></li>
     <li><a href=#Scene-Representation-1>Scene Representation</a></li>
-    <li><a href=#Geometry-Processing-1>Geometry Processing</a></li> -->
-    * [SLAM](#SLAM-1)  </br>
-    * [SFM](#SFM-1)  </br>
-    * [Visual Localization](#Visual-Localization-1)  </br>
-    * [Keypoint Detection](#Keypoint-Detection-1)  </br>
-    * [Image Matching](#Image-Matching-1)  </br>
-    * [NeRF](#NeRF-1)  </br>
-    * [Neural Rendering ](#Neural-Rendering-1)  </br>
-    * [3D Reconstruction ](#3D-Reconstruction-1)  </br>
-    * [Scene Representation ](#Scene-Representation-1)  </br>
-    * [ Geometry Processing ](#Geometry-Processing-1)  </br>
+    <li><a href=#Geometry-Processing-1>Geometry Processing</a></li>
+<li> [SLAM](#SLAM-1)</li>
+<li> [SFM](#SFM-1)</li>
+<li> [Visual Localization](#Visual-Localization-1)</li>
+<li> [Keypoint Detection](#Keypoint-Detection-1)</li>
+<li> [Image Matching](#Image-Matching-1)</li>
+<li> [NeRF](#NeRF-1)</li>
+<li> [Neural Rendering ](#Neural-Rendering-1)</li>
+<li> [3D Reconstruction ](#3D-Reconstruction-1)</li>
+<li> [Scene Representation ](#Scene-Representation-1)</li>
+<li> [ Geometry Processing ](#Geometry-Processing-1)</li>
   </ol>
 </details>
 
@@ -35,41 +49,32 @@
   <summary>Word Cloud</summary>
   <ol>
 
-* SLAM
-
-![wordcloud_SLAM](./docs/abstract/wordcloud_SLAM.png)
-
-* SFM
-
-![wordcloud_SFM](./docs/abstract/wordcloud_SFM.png)
-
-* Visual Localization
-
-![wordcloud_VisualLocalization](./docs/abstract/wordcloud_VisualLocalization.png)
-
-* Keypoint Detection
-
-![wordcloud_KeypointDetection](./docs/abstract/wordcloud_KeypointDetection.png)
-
-* Image Matching
-
-![wordcloud_ImageMatching](./docs/abstract/wordcloud_ImageMatching.png)
-
-* Neural Rendering
-
-![wordcloud_NeuralRendering](./docs/abstract/wordcloud_NeuralRendering.png)
-
-* 3D Reconstruction
-
-![wordcloud_3DReconstruction](./docs/abstract/wordcloud_3DReconstruction.png)
-
-* Scene Representation
-
-![wordcloud_SceneRepresentation](./docs/abstract/wordcloud_SceneRepresentation.png)
-
-* Geometry Processing
-
-![wordcloud_GeometryProcessing](./docs/abstract/wordcloud_GeometryProcessing.png)
+  * SLAM
+  ![wordcloud_SLAM](./docs/abstract/wordcloud_SLAM.png)
+  
+  * SFM
+  ![wordcloud_SFM](./docs/abstract/wordcloud_SFM.png)
+  
+  * Visual Localization
+  ![wordcloud_VisualLocalization](./docs/abstract/wordcloud_VisualLocalization.png)
+  
+  * Keypoint Detection
+  ![wordcloud_KeypointDetection](./docs/abstract/wordcloud_KeypointDetection.png)
+  
+  * Image Matching
+  ![wordcloud_ImageMatching](./docs/abstract/wordcloud_ImageMatching.png)
+  
+  * Neural Rendering
+  ![wordcloud_NeuralRendering](./docs/abstract/wordcloud_NeuralRendering.png)
+  
+  * 3D Reconstruction
+  ![wordcloud_3DReconstruction](./docs/abstract/wordcloud_3DReconstruction.png)
+  
+  * Scene Representation
+  ![wordcloud_SceneRepresentation](./docs/abstract/wordcloud_SceneRepresentation.png)
+  
+  * Geometry Processing
+  ![wordcloud_GeometryProcessing](./docs/abstract/wordcloud_GeometryProcessing.png)
 
   </ol>
 </details>
