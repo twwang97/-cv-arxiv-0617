@@ -5,7 +5,6 @@
 > Github source: [usage instructions](https://github.com/Vincentqyw/cv-arxiv-daily/) </br>
 
 
-
 ---
 
 # Table of Contents
@@ -19,10 +18,12 @@
 * [Scene Representation](#Scene-Representation) 
 * [Geometry Processing](#Geometry-Processing) 
 
-<details>
-  <summary>Word Cloud</summary>
+---
 
-  * The word cloud is constructed based on the newest 200 papers (accessed on June 16, 2023)
+# Word Cloud
+
+<details>
+  <summary>The word cloud is constructed based on the abstract section of the newest 200 papers (accessed on June 16, 2023). </summary>
     
   <ol>
 
@@ -64,6 +65,8 @@
 
   </ol>
 </details>
+
+<p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
 ---
 
