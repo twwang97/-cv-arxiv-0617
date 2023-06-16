@@ -1,8 +1,10 @@
 # [Review] CV Papers from arXiv.org
 
-> Github source and usage instructions: [here](https://github.com/Vincentqyw/cv-arxiv-daily/) </br>
-> Updated on June 16, 2023 </br>
-> ```archive``` includes previous arXiv paper list. 
+* Updated on June 16, 2023 </br>
+* Previous arXiv paper list: [archive](https://github.com/twwang97/cv-arxiv/tree/main/archive)  </br>
+> Github source: [usage instructions](https://github.com/Vincentqyw/cv-arxiv-daily/) </br>
+
+
 
 ---
 
