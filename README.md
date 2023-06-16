@@ -1,7 +1,8 @@
 # [Review] CV Papers from arXiv.org
 
-> Github source and usage instructions: [here](https://github.com/Vincentqyw/cv-arxiv-daily/blob/main/docs/README.md) </br>
+> Github source and usage instructions: [here](https://github.com/Vincentqyw/cv-arxiv-daily/) </br>
 > Updated on June 16, 2023 </br>
+> ```archive``` includes previous arXiv paper list. 
 
 ---
 
