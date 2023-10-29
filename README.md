@@ -22,7 +22,6 @@
 
 # Word Cloud
 
-<details>
   <summary>The word cloud is constructed based on the abstract section of the newest 200 papers (accessed on June 16, 2023). </summary>
     
   <ol>
@@ -64,7 +63,6 @@
   ![wordcloud_GeometryProcessing](./docs/abstract/wordcloud_GeometryProcessing.png)
 
   </ol>
-</details>
 
 <p align=right>(<a href=#table-of-contents>back to top</a>)</p>
 
